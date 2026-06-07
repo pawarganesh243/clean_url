@@ -1,10 +1,11 @@
 import React from 'react';
-import { Sun, Moon } from 'lucide-react';
+import { Sun, Moon, Link } from 'lucide-react';
 
 function Navbar({ isDark, setIsDark }) {
   return (
     <header className="navbar">
       <div className="logo-container">
+        <Link className="logo-icon" size={24} />
         <span className="logo-text">CleanURL</span>
       </div>
       <button 

@@ -26,3 +26,6 @@ This project is built with React and Vite.
    ```
 3. **Deploy to Vercel:**
    This project includes a `vercel.json` file for immediate production deployment via Vercel. Connect this repository to your Vercel account, and it will deploy flawlessly.
+
+---
+*Note: This project was vibe coded using Antigravity and React.*
